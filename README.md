@@ -7,10 +7,7 @@
 ![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/hirenf14/refine-auth-kinde-react)
 
 
-
-> A versatile and customizable authentication library for React applications, designed with simplicity in mind.
-
-`@refine-auth/kinde-react` is a powerful authentication library built specifically for React applications. It provides a wide range of authentication and authorization tools while maintaining a user-friendly interface for ease of use.
+`@refine-auth/kinde-react` is an auth provider for `refine` to integrate `kinde` authentication.
 
 ## Installation & Usage
 
@@ -59,7 +56,7 @@ const App = () => {
     </Refine>
   );
 };
-
+  
 ```
 
 ### How to use login
