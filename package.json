@@ -1,5 +1,5 @@
 {
-  "name": "@refine-kinde-auth/react",
+  "name": "@refine-auth/kinde-react",
   "version": "1.0.0",
   "description": "Auth provider for refine with Kinde. refine is a React-based framework for building internal tools, rapidly. Kinde is auth provider for easy authentications.",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "types": "./dist/index.d.ts",
   "exports": "./dist/index.js",
-  "homepage": "https://github.com/hirenf14/refine-kinde-auth#readme",
+  "homepage": "https://github.com/hirenf14/refine-auth-kinde-react#readme",
   "private": false,
   "keywords": [
     "refine",
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hirenf14/refine-kinde-auth.git"
+    "url": "https://github.com/hirenf14/refine-auth-kinde-react.git"
   },
   "bugs": {
-    "url": "https://github.com/hirenf14/refine-kinde-auth/issues"
+    "url": "https://github.com/hirenf14/refine-auth-kinde-react/issues"
   },
   "peerDependencies": {
     "@refinedev/core": "^4.28.2"
