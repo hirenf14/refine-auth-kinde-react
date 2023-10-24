@@ -1,5 +1,5 @@
 {
-  "name": "refine-kinde-auth",
+  "name": "@refine-kinde-auth/react",
   "version": "1.0.0",
   "description": "Auth provider for refine with Kinde. refine is a React-based framework for building internal tools, rapidly. Kinde is auth provider for easy authentications.",
   "type": "module",
@@ -35,5 +35,8 @@
   },
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@kinde-oss/kinde-auth-react": "^3.0.21"
   }
 }
