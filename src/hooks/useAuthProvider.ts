@@ -63,6 +63,7 @@ export const useAuthProvider = (): AuthProviderHookResult => {
         if (user) {
           return {
             ...user,
+            name: user.given_name ? `${user.given_name} ${user.family_name}` : user.email,
             avatar: user.picture,
           };
         }
