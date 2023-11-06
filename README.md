@@ -93,4 +93,4 @@ The `useAuthProvider` hook returns the following properties:
 - [To know more on Kinde](https://kinde.com/docs/)
 
 
-Made with ❤️ by [Hiren F](https://hirenf.vercel.app/) | [GitHub](https://github.com/hirenf14/refine-auth-kinde-react)
+Made with ❤️ by [Hiren F](https://hiren.codes/) | [GitHub](https://github.com/hirenf14/refine-auth-kinde-react)
